@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dreamway.github.io/"/>
-  <updated>2018-07-09T10:07:35.841Z</updated>
+  <updated>2018-07-09T10:56:32.520Z</updated>
   <id>http://dreamway.github.io/</id>
   
   <author>
@@ -21,12 +21,21 @@
     <link href="http://dreamway.github.io/2018/07/09/metro-pedestrian-couting/"/>
     <id>http://dreamway.github.io/2018/07/09/metro-pedestrian-couting/</id>
     <published>2018-07-09T10:07:35.000Z</published>
-    <updated>2018-07-09T10:07:35.841Z</updated>
+    <updated>2018-07-09T10:56:32.520Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h1><p>Recently, I’m working on a metro pedestrain counting project.<br>By counting how many people have entered the metro, the metro station can keep track of this and control the traffic flow</p><h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><p>I’ve tested YOLOv2 &amp; YOLOv3 by annotated the pedestrain myself.<br>Use the darknet to train, and also test the pytorch-yolo-v3 results.<br>then, I use the <em>SORT</em> method which is the opensource baseline for MOT benchmark.</p><h1 id="Results"><a href="#Results" class="headerlink" title="Results"></a>Results</h1><p>The working result is here and it seems it’s a milestone now:</p><embed src="http://player.youku.com/player.php/sid/XMzcwODA3NTA2MA==/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash"><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><p>I’ll still pay attention to this project and will test another MOT methods and related techniques.</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h1 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h1&gt;&lt;p&gt;Recently, I’m working on a metro pedestrain counting proje
+      
+    
     </summary>
     
+    
+      <category term="Computer Vision, Deep Learning" scheme="http://dreamway.github.io/tags/Computer-Vision-Deep-Learning/"/>
     
   </entry>
   
@@ -45,44 +54,6 @@
       
         &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
       
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://dreamway.github.io/2018/01/04/test/"/>
-    <id>http://dreamway.github.io/2018/01/04/test/</id>
-    <published>2018-01-04T14:37:45.000Z</published>
-    <updated>2018-01-04T14:38:17.292Z</updated>
-    
-    <content type="html"><![CDATA[<p>Test the theme</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Test the theme&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="test" scheme="http://dreamway.github.io/tags/test/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hello, hexo</title>
-    <link href="http://dreamway.github.io/2018/01/01/hello-hexo/"/>
-    <id>http://dreamway.github.io/2018/01/01/hello-hexo/</id>
-    <published>2018-01-01T12:57:40.000Z</published>
-    <updated>2018-01-01T12:57:40.573Z</updated>
-    
-    <summary type="html">
     
     </summary>
     
